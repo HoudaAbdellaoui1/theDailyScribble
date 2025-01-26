@@ -1,0 +1,8 @@
+# Ignore environment-specific files
+.env
+
+# Ignore a specific directory
+node_modules/
+
+.vscode/
+blogging-77326-firebase-adminsdk-fbsvc-77d956582c.json
